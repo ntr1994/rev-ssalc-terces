@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-book-template-js",
+    "path": "/106",
+    "result": {"data":{"bookMeta":{"dimensions":[[720,11441],[720,13383],[720,13302],[720,13500],[720,13500],[720,8478]],"name":"106"},"bookPages":{"edges":[{"node":{"relativePath":"106/001.gpj","publicURL":"/rev-ssalc-terces/static/8614d592c8d7bc2f3bcc1b35c01bc935/001.gpj","name":"001"}},{"node":{"relativePath":"106/002.gpj","publicURL":"/rev-ssalc-terces/static/f712b3f6ee239e81937dbf575b5a54c6/002.gpj","name":"002"}},{"node":{"relativePath":"106/003.gpj","publicURL":"/rev-ssalc-terces/static/7da95f4d1b170116bc3397e33375a27d/003.gpj","name":"003"}},{"node":{"relativePath":"106/004.gpj","publicURL":"/rev-ssalc-terces/static/ca9d9fc9087348e3aec4c5e36170026d/004.gpj","name":"004"}},{"node":{"relativePath":"106/005.gpj","publicURL":"/rev-ssalc-terces/static/3ea4d16228793429f788c696fb40315d/005.gpj","name":"005"}},{"node":{"relativePath":"106/006.gpj","publicURL":"/rev-ssalc-terces/static/294f1ca2d3be6fbf83474debae197480/006.gpj","name":"006"}}]}},"pageContext":{"name":"106","prevPath":"/105","nextPath":"/107"}},
+    "staticQueryHashes": []}
